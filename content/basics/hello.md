@@ -2,10 +2,21 @@
 title: Hello
 date: 2026-06-26
 author: Your Name
-cell_count: 0
+cell_count: 2
 score: 0
 ---
 
+```python
+print("hello")
+```
+
+    hello
+    
+
+
+```python
+
+```
 
 
 ---
