@@ -1,6 +1,6 @@
 ---
 title: Hello
-date: 2026-06-26
+date: 2026-06-29
 author: Your Name
 cell_count: 2
 score: 0
@@ -15,7 +15,7 @@ print("hello")
 
 
 ```python
-
+print("hello")
 ```
 
 
